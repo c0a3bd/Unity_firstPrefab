@@ -7,7 +7,8 @@ public class PrintToConsole : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+    // attached to car
+     Debug.Log("congrats, your first script!");  
     }
 
     // Update is called once per frame
